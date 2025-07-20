@@ -23,9 +23,9 @@ Angela Yu’s bootcamp covers the full web development stack, including:
 NOTE: All files are located in FULLSTACK folder and separated properly, more folders will be added as the course advances (since it's self-paced I'll gradually commit changes).
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tools/Languages Used
 
-This repo will touch on many tools and technologies, including:
+This repo will touch on many tools and languages, including:
 
 - HTML5, CSS3, JavaScript (ES6+)
 - Node.js, Express.js, MongoDB, Mongoose
@@ -41,14 +41,13 @@ This repo will touch on many tools and technologies, including:
 I'm building this repo to:
 
 1. Reinforce what I learn by practicing
-2. Track and showcase my progress publicly
-3. Build a habit of clean coding & documentation
-4. Reflect on the projects I build
-5. Help others by sharing my materials and code!
+2. Build a habit of clean coding & documentation
+3. Reflect on the projects I build
+4. Help others by sharing my materials and code!
 
 ---
 
-## About Me
+## About Me 💻
 
 I'm Amina — a biomedical engineering MSc student learning full-stack web dev to complement my AI/ML research and build beautiful, functional apps in healthcare, neurotech, and beyond!
 
@@ -58,6 +57,6 @@ I'm Amina — a biomedical engineering MSc student learning full-stack web dev t
 
 Feel free to fork, star, or even reach out! I’d love to connect with other learners and grow together.
 
-Happy coding! 💻✨
+Happy coding!
 
 
