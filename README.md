@@ -20,6 +20,7 @@ Angela Yu’s bootcamp covers the full web development stack, including:
 - ✅ Authentication (Passport.js)
 - ✅ React.js (Intro)
 
+All files are located in FULLSTACK folder and separated properly, more folders will be added as the course advances (since it's self-paced I'll gradually commit changes).
 ---
 
 ## 🛠️ Technologies Used
